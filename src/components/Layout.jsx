@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { useState } from "react";
-import Login from "./login";
 import Sidebar from "./Sidebar";
 import Topbar from "./Topbar";
 
